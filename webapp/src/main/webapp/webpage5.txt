@@ -1,5 +1,0 @@
-<h1> Hello, Welcome to the Minecraft Command Database!!   </h1>
-<h2> Glad to see you here </h2>
-<h2> Game On! </h2>
-
-
